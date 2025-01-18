@@ -49,5 +49,6 @@ The project is designed to be run on Google Colab. Necessary libraries should be
 ## 📝 License
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
 
-## 🔍 Code
+## 🔍 Code And Kaggle Link
 Project: [Stroke Prediction](https://github.com/omerfarukyuce/stroke-prediction-machine-learning)
+Kaggle: [stroke_prediction](https://www.kaggle.com/code/merfarukyce/stroke-prediction)
