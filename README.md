@@ -50,4 +50,4 @@ The project is designed to be run on Google Colab. Necessary libraries should be
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
 
 ## 🔍 Code
-Project: [Stroke Prediction]([https://github.com/omerfarukyuce/Sudoku/tree/main](https://github.com/omerfarukyuce/stroke-prediction-machine-learning))
+Project: [Stroke Prediction]((https://github.com/omerfarukyuce/stroke-prediction-machine-learning))
