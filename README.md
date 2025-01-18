@@ -51,4 +51,5 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## 🔍 Code And Kaggle Link
 Project: [Stroke Prediction](https://github.com/omerfarukyuce/stroke-prediction-machine-learning)
+
 Kaggle: [stroke_prediction](https://www.kaggle.com/code/merfarukyce/stroke-prediction)
