@@ -54,5 +54,5 @@ Project: [Stroke Prediction](https://github.com/omerfarukyuce/stroke-prediction-
 
 Kaggle: [stroke_prediction](https://www.kaggle.com/code/merfarukyce/stroke-prediction)
 
-## 📊 Datasets
-Datasets: [Datasets](https://www.kaggle.com/datasets/teamincribo/stroke-prediction?select=stroke_prediction_dataset.csv)
+## 📊 Dataset
+Dataset: [Dataset](https://www.kaggle.com/datasets/teamincribo/stroke-prediction?select=stroke_prediction_dataset.csv)
