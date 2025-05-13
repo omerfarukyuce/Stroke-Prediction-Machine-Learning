@@ -3,19 +3,6 @@
 ## 🎯 Project Objective 
 This project involves the development of a machine learning model to predict stroke risk using individuals' health data. Data preprocessing, feature engineering and natural language processing (NLP) techniques were used. As a result of the dataset used and the methods applied, an average success rate of 52% was achieved. This reveals both the limitations of the dataset and the complexity of stroke prediction. Higher success rates are targeted in the future with more comprehensive datasets and advanced modeling methods.
 
-## 📂 Contents
-
-- [Project Objective](#project-objective)
-- [Dataset](#dataset)
-- [Data Preprocessing](#data-preprocessing)
-- [Feature Engineering](#feature-engineering)
-- [Modeling](#modeling)
-- [Libraries Used](#libraries-used)
-- [Outputs](#outputs)
-- [Installation](#installation)
-- [Contributing](#contributing)
-- [License](#license
-
 ## 📚 Libraries Used 
 - **`pandas`**: For data analysis and manipulation.
 - **`numpy`**: For numerical computations.
@@ -26,6 +13,15 @@ This project involves the development of a machine learning model to predict str
 - **`graphviz`**: For visualizing decision trees.
 
 ## 📊 Dataset Information 
+
+The dataset includes:
+
+- Demographic details (Age, Gender, Marital Status)
+- Health conditions (Hypertension, Heart Disease, Glucose Level, BMI, HDL, LDL)
+- Lifestyle factors (Smoking, Alcohol, Physical Activity, Diet)
+- Symptoms (free-text `Symptoms` column)
+- Stroke history, family history, and diagnosis info
+
 The dataset contains 15,000 patient records and includes the following columns:
 
 | Column Name                     | Non-Null Count | Data Type  |
