@@ -49,6 +49,22 @@ The dataset contains 15,000 patient records and includes the following columns:
 | Symptoms                        | 12500          | object     |
 | Diagnosis                       | 15000          | object     |
 
+## 🧹 Data Preprocessing
+
+- No missing values in the dataset
+- Numerical features were scaled using Min-Max normalization
+- `Symptoms` column:
+  - Stopwords removed
+  - Converted to lowercase
+  - Combined with underscores (`difficulty_speaking`, `loss_balance`, etc.)
+  - A new `Cleaned_Symptoms` column was added
+
+ ## 🧠 Feature Engineering
+
+- CountVectorizer and TF-IDF applied to the `Symptoms` column
+- Text mining techniques applied to `Cleaned_Symptoms`
+- One-hot or TF-IDF matrices can be used as additional model features
+
 ## 📈 Results 
 The modeling process evaluated the success rates and classification reports obtained using different machine learning algorithms. The results demonstrate the complexity of stroke prediction and the limitations of the dataset.
 
