@@ -77,7 +77,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ## 🔍 Code And Kaggle Link
 Project: [Stroke Prediction](https://github.com/omerfarukyuce/stroke-prediction-machine-learning)
 
-Kaggle: [🧠Stroke Prediction & Analysis (EDA)🩺](https://www.kaggle.com/code/merfarukyce/stroke-prediction-analysis-eda?scriptVersionId=237416654)
+Kaggle: [🧠Stroke Prediction & Analysis (EDA)🩺](https://www.kaggle.com/code/merfarukyce/stroke-prediction-analysis-eda)
 
 ## 📊 Dataset
 Dataset: [Dataset](https://www.kaggle.com/datasets/teamincribo/stroke-prediction?select=stroke_prediction_dataset.csv)
