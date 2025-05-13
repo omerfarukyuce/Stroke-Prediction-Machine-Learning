@@ -1,7 +1,7 @@
 # 🧠💻 Stroke Prediction Machine Learning Project 
 
 ## 🎯 Project Objective 
-This study aims to develop and evaluate machine learning models for stroke prediction. As a result of the dataset used and the methods applied, an average success rate of 52% was achieved. This reveals both the limitations of the dataset and the complexity of stroke prediction. Higher success rates are targeted in the future with more comprehensive datasets and advanced modeling methods.
+This project involves the development of a machine learning model to predict stroke risk using individuals' health data. Data preprocessing, feature engineering and natural language processing (NLP) techniques were used. As a result of the dataset used and the methods applied, an average success rate of 52% was achieved. This reveals both the limitations of the dataset and the complexity of stroke prediction. Higher success rates are targeted in the future with more comprehensive datasets and advanced modeling methods.
 
 ## 📚 Libraries Used 
 - **`pandas`**: For data analysis and manipulation.
